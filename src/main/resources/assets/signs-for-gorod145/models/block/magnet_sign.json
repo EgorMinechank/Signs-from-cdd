@@ -1,0 +1,6 @@
+{
+  "parent": "signs-for-gorod145:block/sign",
+  "textures": {
+    "0": "signs-for-gorod145:block/signs/magnet"
+  }
+}

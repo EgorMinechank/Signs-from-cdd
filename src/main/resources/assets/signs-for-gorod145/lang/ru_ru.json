@@ -1,0 +1,11 @@
+{
+  "block.signs-for-gorod145.arrow_down_sign": "Стрелочка вниз",
+  "block.signs-for-gorod145.arrow_up_sign": "Стрелочка вверх",
+  "block.signs-for-gorod145.arrow_right_sign": "Стрелочка вправо",
+  "block.signs-for-gorod145.arrow_left_sign": "Стрелочка влево",
+  "block.signs-for-gorod145.magnet_sign": "Разворот",
+  "block.signs-for-gorod145.stop_sign": "Знак остановки",
+  "block.signs-for-gorod145.blank_sign": "Пустой знак",
+
+  "itemgroup.sfc": "SFC"
+}

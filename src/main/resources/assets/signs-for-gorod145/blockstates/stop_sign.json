@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "signs-for-gorod145:block/stop_sign",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "signs-for-gorod145:block/stop_sign",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "signs-for-gorod145:block/stop_sign",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "signs-for-gorod145:block/stop_sign",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "signs-for-gorod145:block/stop_sign"
+    },
+    "facing=west": {
+      "model": "signs-for-gorod145:block/stop_sign",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
